@@ -1,0 +1,12 @@
+{
+  "name": "ProductScanNew",
+  "displayName": "ProductScanNew",
+  "expo": {
+    "name": "ProductScanNew",
+    "slug": "ProductScanNew",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
